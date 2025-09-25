@@ -1,1 +1,4 @@
-cryptography 
+tkinter
+cryptography
+pyperclip
+bcrypt
